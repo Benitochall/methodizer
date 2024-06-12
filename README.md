@@ -1,2 +1,3 @@
 # methodizer
-Here is my final project for 514
+Final project for numerical analysis
+See paper
